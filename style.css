@@ -5,3 +5,7 @@
 /* Game state overlays do not intercept touches on the map. */
 #orders{pointer-events:none}.order-line{stroke-width:5;stroke-linecap:round;stroke-dasharray:10 6;opacity:.96}.order-line.attack{stroke:#ffd281}.order-line.move{stroke:#b4eee5}.order-arrow.attack{fill:#ffd281}.order-arrow.move{fill:#b4eee5}.region.fighting{stroke:#ffb96b;stroke-width:5}.region.fighting.selected{stroke:#fff1ba;stroke-width:6}.battle-icon{fill:#ffe0a0;font-size:30px;text-anchor:middle;paint-order:stroke;stroke:#8d3930;stroke-width:4px}.battle-key{color:#ffd281}.modal{overflow:auto}.card{max-height:calc(100dvh - 24px);overflow:auto}.action{min-height:44px}@media(max-height:500px){.card{padding:14px 22px}.card h1{font-size:28px;margin:4px 0}.card p{margin:5px 0;font-size:12px}.choices{margin:10px 0}.choices button{padding:8px}.choices strong{margin-bottom:2px}.mission{max-width:70%;flex-wrap:wrap}aside.open{max-height:75%}footer{height:48px}footer button span{font-size:15px;margin-bottom:0}header{height:48px}}
 @media(max-width:700px){.stats small{display:block;font-size:8px;letter-spacing:0;line-height:1}.stats b{margin-top:3px}.time button{min-height:40px}.mission{max-width:72%}.mapkey{gap:6px;font-size:9px}}
+
+.region.frontline{stroke:#b0f1e1;stroke-width:5;stroke-dasharray:9 5}.region.frontline.fighting{stroke:#ffb96b;stroke-dasharray:5 3}.region.frontline.selected{stroke:#fff1ba;stroke-width:6}
+
+.front-key{color:#b0f1e1}
