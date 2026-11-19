@@ -9,3 +9,5 @@
 .region.frontline{stroke:#b0f1e1;stroke-width:5;stroke-dasharray:9 5}.region.frontline.fighting{stroke:#ffb96b;stroke-dasharray:5 3}.region.frontline.selected{stroke:#fff1ba;stroke-width:6}
 
 .front-key{color:#b0f1e1}
+
+.continue{width:100%;background:#d3bd7d;color:#172522;border:0;font-weight:bold;padding:12px;margin-top:12px}.continue:disabled{opacity:.5}.choices{margin-top:12px}@media(max-width:700px){.time{gap:3px}.time button{padding:6px;font-size:10px}.stats{gap:6px}}
