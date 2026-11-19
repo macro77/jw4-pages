@@ -13,3 +13,5 @@
 .continue{width:100%;background:#d3bd7d;color:#172522;border:0;font-weight:bold;padding:12px;margin-top:12px}.continue:disabled{opacity:.5}.choices{margin-top:12px}@media(max-width:700px){.time{gap:3px}.time button{padding:6px;font-size:10px}.stats{gap:6px}}
 
 .neutral{background:#a6b19a}.choices{grid-template-columns:repeat(3,1fr)}@media(max-width:460px){.choices{grid-template-columns:1fr}.choices button{padding:9px}.choices strong{font-size:14px;margin:0}.choices small{font-size:9px}}
+
+.ally{background:#86a7c6}@media(max-width:700px){footer{overflow-x:auto}footer button{min-width:52px;flex:1 0 52px}.mapkey{flex-wrap:wrap;max-width:65%}}
