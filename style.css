@@ -15,3 +15,7 @@
 .neutral{background:#a6b19a}.choices{grid-template-columns:repeat(3,1fr)}@media(max-width:460px){.choices{grid-template-columns:1fr}.choices button{padding:9px}.choices strong{font-size:14px;margin:0}.choices small{font-size:9px}}
 
 .ally{background:#86a7c6}@media(max-width:700px){footer{overflow-x:auto}footer button{min-width:52px;flex:1 0 52px}.mapkey{flex-wrap:wrap;max-width:65%}}
+
+.order-line.naval{stroke:#83c9ff;stroke-width:4}.naval-icon{fill:#d9f0ff;stroke:#244b64;stroke-width:3;paint-order:stroke;text-anchor:middle;font-size:24px}
+
+.scenario-label{display:block;color:#d3bd7d;font-size:12px;margin-top:12px}#scenario{width:100%;min-height:40px;background:#263a35;border:1px solid #63786a;color:#f1f1dd;padding:8px;font:inherit}.card .scenario-label+.muted{margin:3px 0}
