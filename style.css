@@ -21,3 +21,5 @@
 .scenario-label{display:block;color:#d3bd7d;font-size:12px;margin-top:12px}#scenario{width:100%;min-height:40px;background:#263a35;border:1px solid #63786a;color:#f1f1dd;padding:8px;font:inherit}.card .scenario-label+.muted{margin:3px 0}
 
 .order-line.landing{stroke:#ffc483;stroke-width:4}
+
+@media(max-height:500px){header .brand{display:none}header{height:48px;padding:0 10px;gap:8px}.stats{gap:12px}.stats b{font-size:11px}aside{top:auto;bottom:0;right:0;width:min(330px,100%);max-height:75%;padding:12px;display:none}aside.open{display:block}.panel-head #close{display:block}.mission{top:8px;left:8px}footer{overflow-x:auto;padding:0}footer button{min-width:64px;flex:1 0 64px}.footer-note{display:none}}
