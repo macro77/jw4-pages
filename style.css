@@ -19,3 +19,5 @@
 .order-line.naval{stroke:#83c9ff;stroke-width:4}.naval-icon{fill:#d9f0ff;stroke:#244b64;stroke-width:3;paint-order:stroke;text-anchor:middle;font-size:24px}
 
 .scenario-label{display:block;color:#d3bd7d;font-size:12px;margin-top:12px}#scenario{width:100%;min-height:40px;background:#263a35;border:1px solid #63786a;color:#f1f1dd;padding:8px;font:inherit}.card .scenario-label+.muted{margin:3px 0}
+
+.order-line.landing{stroke:#ffc483;stroke-width:4}
